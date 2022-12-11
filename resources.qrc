@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>win.png</file>
+        <file>banana.png</file>
+        <file>board.txt</file>
+        <file>borders - down.png</file>
+        <file>borders - left.png</file>
+        <file>borders - right .png</file>
+        <file>borders.png</file>
+        <file>bordersLeft.png</file>
+        <file>bordersRight.png</file>
+        <file>car.png</file>
+        <file>firehydrant.png</file>
+        <file>G.png</file>
+        <file>girls.png</file>
+        <file>gru.png</file>
+        <file>Gun.jfif</file>
+        <file>house.png</file>
+        <file>j.png</file>
+        <file>largegun.png</file>
+        <file>lose.png</file>
+        <file>minion.png</file>
+        <file>pinkdoor.png</file>
+        <file>pinky.png</file>
+        <file>sprinkle - Copy.png</file>
+        <file>sprinkle.png</file>
+        <file>sprinkles.jpg</file>
+        <file>street.png</file>
+        <file>strongminion.png</file>
+        <file>teddybear.png</file>
+        <file>vector.png</file>
+        <file>wall.png</file>
+        <file>pink_bubbles.png</file>
+        <file>heart - Copy.png</file>
+        <file>pinktree.png</file>
+        <file>login.txt</file>
+        <file>minion2 - Copy.png</file>
+    </qresource>
+</RCC>
